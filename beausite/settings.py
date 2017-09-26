@@ -25,7 +25,7 @@ SECRET_KEY = 'm$*x#@8dlq^6d$r4@n_ee=z3%t12v#jm!+7h@_rhpwe2^7v&z-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','beau.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','boaster.pythonanywhere.com']
 
 
 # Application definition
