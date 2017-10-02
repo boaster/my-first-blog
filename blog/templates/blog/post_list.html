@@ -1,2 +1,7 @@
 <h1>farts</h1>
-<p>and harts</p>
+{{posts}}
+
+{% for post in posts %}
+	<p>{{ post.title }}</p>
+	<p>{{ post.published_date }}</p>
+{% endfor %}
